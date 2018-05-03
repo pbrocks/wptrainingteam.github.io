@@ -15,6 +15,8 @@ Use the index.html file for a public-facing website for our lesson plans.
 Left align text is the default, but apparently can use certain HTML elements to define CSS
 
 <p align="center">
+  Centered Text ::
+  The WordPress Training Team creates downloadable lesson plans and related materials for instructors to use in live workshop environments. If you enjoy teaching people how to use and build stuff for WordPress, immediately stop what you’re doing and join our team!
   <b>Some Links:</b><br>
   <a href="#user-plans">Link 1</a> |
   <a href="#">Link 2</a> |
